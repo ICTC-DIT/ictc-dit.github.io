@@ -10,10 +10,10 @@ const Home2 = () => {
 			<div className="Home2Right">
 				<h1 className="Home2RightH1">Who we are</h1>
 				<p className="Home2RightP">
-					WE are some awesome Lorem ipsum dolor sit amet consectetur adipisicing
-					elit. Impedit, corporis. Incidunt, modi natus. Inventore, est
-					asperiores temporibus voluptatibus ipsa quam error sint natus, saepe,
-					reiciendis explicabo facilis a! Quam, quibusdam.
+					We are a tech community that offers a lot more than what is usually
+					expected. We connect you with industry experts and organize sessions
+					with amazing surprises. We are here to bring a change in your campus
+					as well as the overall community.
 				</p>
 			</div>
 		</div>

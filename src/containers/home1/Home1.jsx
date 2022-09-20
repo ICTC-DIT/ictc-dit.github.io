@@ -15,8 +15,8 @@ const Main = () => {
 					<span style={{ color: "var(--color-1)" }}>Solve</span>
 				</h1>
 				<p className="MainLeftP">
-					iNEURON - We are society from another Dimension. Visit EL from
-					Stranger Things to know more. If she doesn't tell contact @thor
+					I-neuron: A tech community that cherishes your flaws and helps upgrade
+					them to perfection.
 				</p>
 				<div className="pulse">
 					<a
