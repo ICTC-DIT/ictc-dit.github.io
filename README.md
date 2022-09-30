@@ -1,4 +1,4 @@
-# Website for ICTC
+# Official Website for ICTC
 
 
 ## Available Scripts
