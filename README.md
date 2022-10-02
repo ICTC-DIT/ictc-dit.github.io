@@ -1,4 +1,4 @@
-# Official Website for ICTC
+# Official Website for ICTC(iNeuron Campus Tech Community)
 
 
 
