@@ -12,7 +12,7 @@ const FacultyCoordinators = () => {
 					name="Dr. Sudhani Surname"
 					designation="HOD IT"
 				/>
-				<UserCard image={user} name="Prof. forgot name" designation="xxx xxx" />
+				<UserCard image={user} name="Prof. Kapil Dev Sharma" designation="Network Security Specialist" />
 			</div>
 		</div>
 	);
