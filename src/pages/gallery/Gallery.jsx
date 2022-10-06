@@ -1,4 +1,8 @@
 import img from "../../images/img1.jpg";
+//import img1 from "../../images/img2.jpg";
+import img3 from "../../images/img3.jpg";
+import img4 from "../../images/img4.jpg";
+import img5 from "../../images/img5.jpg";
 import "./Gallery.css";
 
 const Gallery = () => {
@@ -91,7 +95,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img2}
 								alt="Portrait by Ethan Haddox"
 								className="gallery__image"
 							/>
@@ -102,7 +106,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img3}
 								alt="Portrait by Amir Geshani"
 								className="gallery__image"
 							/>
@@ -115,7 +119,7 @@ const Gallery = () => {
 					<div className="gallery__column">
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img4}
 								alt="Portrait by Guilian Fremaux"
 								className="gallery__image"
 							/>
@@ -126,7 +130,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img5}
 								alt="Portrait by Jasmin Chew"
 								className="gallery__image"
 							/>
