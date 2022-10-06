@@ -106,7 +106,8 @@
 	background-color: #f7f5ec;
 }
 
-.team-content .name {
+.team-content .name,
+.team-content .title {
 	/* max-width: 172.02px; */
 	overflow: hidden;
 }
