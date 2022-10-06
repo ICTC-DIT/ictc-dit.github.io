@@ -1,4 +1,11 @@
 import img from "../../images/img1.jpg";
+import img2 from "../../images/img2.jpeg";
+import img3 from "../../images/img3.jpeg";
+import img4 from "../../images/img4.jpeg";
+import img5 from "../../images/img5.jpeg";
+import img6 from "../../images/img6.jpeg";
+import img7 from "../../images/img7.jpeg";
+import img8 from "../../images/img8.jpeg";
 import "./Gallery.css";
 
 const Gallery = () => {
@@ -67,7 +74,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src="https://source.unsplash.com/tV_1sC603zA/300x500"
+								src={img8}
 								alt="Portrait by Sam Burriss"
 								className="gallery__image"
 							/>
@@ -80,7 +87,7 @@ const Gallery = () => {
 					<div className="gallery__column">
 						<figure className="gallery__thumb">
 							<img
-								src="https://source.unsplash.com/Xm9-vA_bhm0/300x500"
+								src={img7}
 								alt="Portrait by Mari Lezhava"
 								className="gallery__image"
 							/>
@@ -91,7 +98,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img2}
 								alt="Portrait by Ethan Haddox"
 								className="gallery__image"
 							/>
@@ -102,7 +109,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img3}
 								alt="Portrait by Amir Geshani"
 								className="gallery__image"
 							/>
@@ -115,7 +122,7 @@ const Gallery = () => {
 					<div className="gallery__column">
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img4}
 								alt="Portrait by Guilian Fremaux"
 								className="gallery__image"
 							/>
@@ -126,7 +133,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src={img}
+								src={img5}
 								alt="Portrait by Jasmin Chew"
 								className="gallery__image"
 							/>
@@ -137,7 +144,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src="https://source.unsplash.com/XZkEhowjx8k/300x500"
+								src={img6}
 								alt="Portrait by Dima DallAcqua"
 								className="gallery__image"
 							/>
