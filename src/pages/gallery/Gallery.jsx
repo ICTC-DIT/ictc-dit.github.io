@@ -6,6 +6,12 @@ import img5 from "../../images/img5.jpeg";
 import img6 from "../../images/img6.jpeg";
 import img7 from "../../images/img7.jpeg";
 import img8 from "../../images/img8.jpeg";
+import imga from "../../images/imga.jpeg";
+import imgc from "../../images/imgc.jpeg";
+import imgd from "../../images/imgd.jpeg";
+import imgb from "../../images/imgb.jpeg";
+
+
 import "./Gallery.css";
 
 const Gallery = () => {
@@ -18,7 +24,7 @@ const Gallery = () => {
 					<div className="gallery__column">
 						<figure className="gallery__thumb">
 							<img
-								src="https://ictc-dit.github.io/Assets/Poster_300.png"
+								src={imga}
 								alt="Portrait by Jessica Felicio"
 								className="gallery__image"
 							/>
@@ -28,7 +34,7 @@ const Gallery = () => {
 						</figure>
 						<figure className="gallery__thumb">
 							<img
-								src="https://wallpaperaccess.com/full/154009.jpg"
+								src={imgc}
 								alt="Portrait by Oladimeji Odunsi"
 								className="gallery__image"
 							/>
@@ -39,7 +45,7 @@ const Gallery = () => {
 
 						<figure className="gallery__thumb">
 							<img
-								src="https://www.enjpg.com/img/2020/cool-for-boys-4.jpg"
+								src={imgd}
 								alt="Portrait by Alex Perez"
 								className="gallery__image"
 							/>
@@ -52,7 +58,7 @@ const Gallery = () => {
 					<div className="gallery__column">
 						<figure className="gallery__thumb">
 							<img
-								src="https://www.pixelstalk.net/wp-content/uploads/images4/Cool-Wallpapers-HD.jpg"
+								src={imgb}
 								alt="Portrait by Noah Buscher"
 								className="gallery__image"
 							/>
