@@ -1,5 +1,6 @@
 import UserCard from "../../components/userCard/UserCard";
 import user from "../../images/user.png";
+import kapilDev from "../../images/kapilDevSharmaSir.png";
 import "./FacultyCoordinators.css";
 
 const FacultyCoordinators = () => {
@@ -12,7 +13,7 @@ const FacultyCoordinators = () => {
 					name="Dr. Sudhani Surname"
 					designation="HOD IT"
 				/>
-				<UserCard image={user} 
+				<UserCard image={kapilDev} 
 				name="Prof. Kapil Dev Sharma" 
 				designation="Network Security Specialist" />
 			</div>
